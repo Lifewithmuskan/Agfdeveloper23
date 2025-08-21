@@ -2,9 +2,10 @@ import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 
 const images = [
-  "/about1.jpg",
-  "/about2.jpg",
-  "/about3.jpg"
+  "./images/v1.jpg",
+  "./images/v2.jpg",
+  "./images/v1.jpg",
+  "./images/v2.jpg",
 ];
 
 export default function AboutSection() {
